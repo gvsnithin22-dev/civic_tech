@@ -1,0 +1,214 @@
+{
+  "complaints": [
+    {
+      "id": "CIV-2901",
+      "title": "Amet aut aut impedi",
+      "description": "Enim cumque iste lab",
+      "reporterName": "Mollit tempore rem ",
+      "category": "Sewage Overflow",
+      "department": "Sewage",
+      "state": "Assigned",
+      "location": {
+        "lat": 28.6138,
+        "lng": 77.209
+      },
+      "ward": "Sunt aute ut sed vit",
+      "scanConfirmed": false,
+      "scanTimestamp": null,
+      "createdAt": "2026-02-20T21:53:31.462Z",
+      "slaHours": 12,
+      "imageHash": "1111111001111111111111111111111111111101111111111111110111111111111110111111111111100111110001111111011110000111000001111000011100000111100001110001111111000111000000011000011100000000000001110000000000000111000000000000001100001000000000010000100000000001",
+      "imageAnalyzerHash": null,
+      "imagePath": "uploads/complaint-1771624411454-34925.jpg",
+      "metadataValid": false,
+      "internetHashMatch": false,
+      "reusedImageAcrossUsers": false,
+      "communityWeight": 1,
+      "assignedTechnicianId": "TECH-1",
+      "beforeEvidence": {
+        "objectDetected": true,
+        "ssim": 0.22,
+        "capturedAt": "2026-02-20T21:52:52.192Z",
+        "coordinates": {
+          "lat": 28.6138,
+          "lng": 77.209
+        }
+      },
+      "afterEvidence": {
+        "objectDetected": false,
+        "ssim": 0.42
+      }
+    },
+    {
+      "id": "CIV-5667",
+      "title": "Quis aut quod volupt",
+      "description": "Odit impedit dicta ",
+      "reporterName": "Ipsum a doloribus au",
+      "category": "Sewage Overflow",
+      "department": "Sewage",
+      "state": "In Progress",
+      "location": {
+        "lat": 28.6138,
+        "lng": 77.209
+      },
+      "ward": "Corporis sunt distin",
+      "scanConfirmed": false,
+      "scanTimestamp": null,
+      "createdAt": "2026-02-20T21:41:41.990Z",
+      "slaHours": 12,
+      "imageHash": "1111000011111111111100011111111111110011111111111111011111111111111001110011111100001110001111110000111000111111000111100011111100011110001111110011111000111111000000100001111100000000000011110000000000000011000000000000001100000000000000110000000000000011",
+      "imageAnalyzerHash": null,
+      "imagePath": "uploads/complaint-1771623701932-46528.jpg",
+      "metadataValid": false,
+      "internetHashMatch": false,
+      "reusedImageAcrossUsers": false,
+      "communityWeight": 1,
+      "assignedTechnicianId": "TECH-2",
+      "beforeEvidence": {
+        "objectDetected": true,
+        "ssim": 0.22,
+        "capturedAt": "2026-02-20T21:41:04.254Z",
+        "coordinates": {
+          "lat": 28.6138,
+          "lng": 77.209
+        }
+      },
+      "afterEvidence": {
+        "objectDetected": false,
+        "ssim": null,
+        "aiResolved": null,
+        "aiConfidence": null,
+        "aiReason": null,
+        "locationMatch": true,
+        "locationDistanceMeters": 0,
+        "afterCoordinates": {
+          "lat": 28.6138,
+          "lng": 77.209
+        },
+        "beforeCoordinates": {
+          "lat": 28.6138,
+          "lng": 77.209
+        },
+        "imagePath": "uploads/after-work-1771623871507-90443.jpg"
+      },
+      "technicianSubmission": {
+        "submittedAt": "2026-02-20T21:44:31.516Z",
+        "proofCaptured": true,
+        "scanConfirmed": true
+      },
+      "userReview": {
+        "accepted": false,
+        "rating": 1,
+        "reviewedAt": "2026-02-20T21:52:21.349Z"
+      }
+    },
+    {
+      "id": "CIV-3066",
+      "title": "Quas exercitationem ",
+      "description": "Officia earum in sit",
+      "reporterName": "Iusto ea qui id lau",
+      "category": "Garbage",
+      "department": "Sanitation",
+      "state": "Closed",
+      "location": {
+        "lat": 28.6138,
+        "lng": 77.209
+      },
+      "ward": "Tenetur est sed sed ",
+      "scanConfirmed": false,
+      "scanTimestamp": null,
+      "createdAt": "2026-02-20T21:13:36.190Z",
+      "slaHours": 24,
+      "imageHash": "1111111100001111111111110000111111111111000111111111111100111111111111110011111101111000011111110011100011111111110110001111111110110000100111111110000100001111000000000001111100100000000111110111000000000001111100000000000010100000000000001010000000000000",
+      "imageAnalyzerHash": null,
+      "imagePath": "uploads/complaint-1771622016136-47605.jpg",
+      "metadataValid": false,
+      "internetHashMatch": false,
+      "reusedImageAcrossUsers": false,
+      "communityWeight": 1,
+      "assignedTechnicianId": "TECH-2",
+      "beforeEvidence": {
+        "objectDetected": true,
+        "ssim": 0.22,
+        "capturedAt": "2026-02-20T21:12:59.417Z",
+        "coordinates": {
+          "lat": 28.6138,
+          "lng": 77.209
+        }
+      },
+      "afterEvidence": {
+        "objectDetected": false,
+        "ssim": null,
+        "aiResolved": null,
+        "aiConfidence": null,
+        "aiReason": null,
+        "locationMatch": true,
+        "locationDistanceMeters": 0,
+        "afterCoordinates": {
+          "lat": 28.6138,
+          "lng": 77.209
+        },
+        "beforeCoordinates": {
+          "lat": 28.6138,
+          "lng": 77.209
+        },
+        "imagePath": "uploads/after-work-1771622635971-28509.jpg"
+      },
+      "technicianSubmission": {
+        "submittedAt": "2026-02-20T21:23:55.985Z",
+        "proofCaptured": true,
+        "scanConfirmed": true
+      },
+      "userReview": {
+        "accepted": true,
+        "rating": 5,
+        "reviewedAt": "2026-02-20T21:38:48.972Z"
+      }
+    }
+  ],
+  "technicians": [
+    {
+      "id": "TECH-1",
+      "name": "Aman Verma",
+      "validatedResolutions": 17,
+      "disputes": 1,
+      "falseCompletions": 5,
+      "activeAssignments": 1
+    },
+    {
+      "id": "TECH-2",
+      "name": "Priya Singh",
+      "validatedResolutions": 13,
+      "disputes": 3,
+      "falseCompletions": 1,
+      "activeAssignments": 2
+    },
+    {
+      "id": "TECH-3",
+      "name": "Ravi Kumar",
+      "validatedResolutions": 7,
+      "disputes": 3,
+      "falseCompletions": 1,
+      "activeAssignments": 0
+    }
+  ],
+  "logs": [
+    "CIV-2901 reviewed by authority and assigned to TECH-1.",
+    "CIV-2901 reported with image evidence uploaded.",
+    "CIV-2901 pre-validation passed with user location (28.61380, 77.20900).",
+    "CIV-2901 awaiting authority review and technician assignment.",
+    "Complaint created: CIV-2901 (Sewage Overflow).",
+    "User disputed resolution for CIV-5667; sent back to in-progress for rework.",
+    "CIV-5667 work uploaded and location validated (0m). Awaiting user confirmation.",
+    "CIV-5667 reported with image evidence uploaded.",
+    "CIV-5667 pre-validation passed with user location (28.61380, 77.20900).",
+    "CIV-5667 assigned to TECH-2.",
+    "Complaint created: CIV-5667 (Sewage Overflow).",
+    "User accepted resolution for CIV-3066 (rating 5/5).",
+    "CIV-3066 work uploaded and location validated (0m). Awaiting user confirmation.",
+    "CIV-3066 reported with image evidence uploaded.",
+    "CIV-3066 pre-validation passed with user location (28.61380, 77.20900).",
+    "CIV-3066 assigned to TECH-2.",
+    "Complaint created: CIV-3066 (Garbage)."
+  ]
+}
